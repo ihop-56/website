@@ -51,13 +51,6 @@ leadership:
       slack: 'https://hackforla.slack.com/team/U04MJA414LU'
       github: 'https://github.com/Thinking-Panda'
     picture: https://avatars.githubusercontent.com/Thinking-Panda
-  - name: Nayan Bhatt
-    github-handle: freaky4wrld
-    role: Merge Team
-    links:
-      slack: 'https://hackforla.slack.com/team/U05TZLLJAUV'
-      github: 'https://github.com/freaky4wrld'
-    picture: https://avatars.githubusercontent.com/freaky4wrld
   - name: Gayle Martin
     github-handle: gaylem
     role: Merge Team
@@ -65,20 +58,20 @@ leadership:
       slack: 'https://hackforla.slack.com/team/U06HC3A0DM0'
       github: 'https://github.com/gaylem'
     picture: https://avatars.githubusercontent.com/gaylem
-  - name: Mario Antonini
-    github-handle: 
-    role: Merge Team
-    links:
-      slack: 'https://hackforla.slack.com/team/U06MTPZ67V3'
-      github: 'https://github.com/marioantonini'
-    picture: https://avatars.githubusercontent.com/marioantonini
   - name: Danielle Hanson Aras
-    github-handle: 
+    github-handle:
     role: Merge Team
     links:
       slack: 'https://hackforla.slack.com/team/U076DT96PUJ'
       github: 'https://github.com/daras-cu'
     picture: https://avatars.githubusercontent.com/daras-cu
+  - name: Samhitha Kamma
+    github-handle: Samhitha444
+    role: Product Manager
+    links:
+      slack: https://hackforla.slack.com/team/U07FF529MU6
+      github: https://github.com/Samhitha444
+    picture: https://avatars.githubusercontent.com/Samhitha444
 links:
   - name: Wiki
     url: 'https://github.com/hackforla/website/wiki'
